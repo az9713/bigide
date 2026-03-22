@@ -11,6 +11,10 @@ This project was inspired by two key ideas in the AI-assisted development space:
 
 BigIDE is an attempt to combine both visions into a working prototype. For a detailed comparison of how the current implementation aligns with and diverges from these visions, see [docs/VISION_COMPARISON.md](docs/VISION_COMPARISON.md).
 
+### Demo
+
+https://github.com/user-attachments/assets/PLACEHOLDER
+
 ### Built with BigIDE
 
 - [memory-game](https://github.com/az9713/memory-game) — A web-based memory card game created entirely by an AI agent inside BigIDE, from prompt to GitHub push.
