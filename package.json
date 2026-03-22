@@ -1,0 +1,41 @@
+{
+  "name": "bigide",
+  "version": "0.1.0",
+  "description": "BigIDE — Agent Orchestration IDE Prototype",
+  "main": "dist/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "postinstall": "electron-builder install-app-deps || echo postinstall rebuild failed"
+  },
+  "dependencies": {
+    "@xyflow/react": "^12.6.0",
+    "electron-store": "^8.2.0",
+    "node-pty": "^1.0.0",
+    "@electron/rebuild": "^3.7.1",
+    "octokit": "^4.1.2",
+    "react": "^19.1.0",
+    "react-diff-view": "^3.2.1",
+    "react-dom": "^19.1.0",
+    "react-resizable-panels": "^2.1.7",
+    "simple-git": "^3.27.0",
+    "unidiff": "^1.0.4",
+    "@xterm/xterm": "^5.5.0",
+    "@xterm/addon-fit": "^0.10.0",
+    "@xterm/addon-web-links": "^0.11.0",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.3",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "electron": "^35.1.2",
+    "electron-builder": "^25.1.8",
+    "electron-vite": "^3.1.0",
+    "tailwindcss": "^4.1.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.2"
+  }
+}

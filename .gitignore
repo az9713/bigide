@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Electron builder output
+release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# BigIDE runtime data
+.bigide-worktrees/
+.bigide-reports/
+
+# Environment
+.env
+.env.local
+
+# electron-store data (user-specific)
+bigide-state.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test artifacts
+tests/_test-repo*/
+tests/.bigide-worktrees/
+
+# Compressed video
+demo-compressed.mp4
