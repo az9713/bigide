@@ -13,7 +13,7 @@ BigIDE is an attempt to combine both visions into a working prototype. For a det
 
 ### Demo
 
-https://github.com/user-attachments/assets/PLACEHOLDER
+https://github.com/user-attachments/assets/6be9a7a9-23d4-4643-8fc3-6180844ba700
 
 ### Built with BigIDE
 
