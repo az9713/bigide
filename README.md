@@ -1,6 +1,6 @@
 # BigIDE: Agent Orchestration IDE
 
-> A desktop application for orchestrating AI coding agents across multiple projects — with terminals, task boards, code review, embedded browser preview, governance controls, GitHub PR/merge workflow, and auto-generated session reports built in.
+> A desktop application for orchestrating AI coding agents across multiple projects — with git worktree isolation, terminals, task boards, code review, embedded browser preview, governance controls, GitHub PR/merge workflow, and auto-generated session reports built in.
 
 ### Inspiration
 
